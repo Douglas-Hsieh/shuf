@@ -1,2 +1,2 @@
 # shuf
-Python3 program thats in an arbitrary number of strings and returns a random permutation of it.
+Python3 program (CLI) that takes in arguments of an arbitrary number of strings returns a random permutation of its arguments.
